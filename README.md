@@ -54,57 +54,6 @@ This application allows users to upload or input multiple documents, preprocesse
 * Git
 * GitHub
 
----
-
-
-```
-
----
-
-## ⚙️ Installation
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/bekkambai/document-clustering.git
-cd document-clustering
-```
-
-### Create Virtual Environment
-
-```bash
-python -m venv venv
-```
-
-### Activate Virtual Environment
-
-#### Windows
-
-```bash
-venv\Scripts\activate
-```
-
-#### Linux/macOS
-
-```bash
-source venv/bin/activate
-```
-
-
-### Run the Application
-
-```bash
-python app.py
-```
-
-Open your browser and visit:
-
-```text
-http://127.0.0.1:5000/
-```
-
----
-
 ## 🧠 Working Principle
 
 ### 1. Text Preprocessing
@@ -136,7 +85,7 @@ The K-Means algorithm:
 
 Documents with similar content are grouped into the same cluster.
 
----
+
 
 ## 📊 Machine Learning Concepts Used
 
@@ -159,7 +108,7 @@ Documents with similar content are grouped into the same cluster.
 * Content Recommendation Systems
 * Knowledge Management
 
----
+
 
 ## 📈 Future Enhancements
 
